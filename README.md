@@ -65,7 +65,7 @@ A full-stack **Task Management Web Application** where users can create, manage 
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-manager.git
+git clone https://github.com/Saikumar4741/task-manager.git
 cd task-manager
 ```
 
