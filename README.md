@@ -77,17 +77,6 @@ cd backend
 npm install
 ```
 
-POST http://localhost:5000/api/auth/register
-Content-Type: application/json
-
-{
-  "name": "Admin",
-  "email": "admin@gmail.com",
-  "password": "admin123",
-  "role": "admin"
-}
-
-
 Create a `.env` file inside the `backend/` folder:
 ```env
 PORT=5000
@@ -98,6 +87,15 @@ JWT_SECRET=mysupersecretjwtkey123
 Start the backend server:
 ```bash
 node server.js
+POST http://localhost:5000/api/auth/register
+Content-Type: application/json
+
+{
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "admin123",
+  "role": "admin"
+}
 ```
 
 ✅ Expected output:
