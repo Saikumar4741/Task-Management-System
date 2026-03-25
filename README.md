@@ -9,6 +9,7 @@ Full Stack project with  collabration and analytics.
 
 
 # Project-DEMO
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9609defb-0a09-44f5-a58b-7db338bf852a" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ab9ddcfd-acb2-4b67-9731-8109f814a2f2" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5e230c89-6cb3-47e8-92d5-ad050a335cee" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/27440fe1-8217-466c-b6b4-acb83bcee256" />
