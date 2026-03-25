@@ -159,7 +159,7 @@ Recharts Pie chart shows task distribution visually across statuses. Bar chart c
 ---
 
 ## 📁 Project Structure
-```
+
 task-manager/
 ├── backend/
 │   ├── config/
@@ -197,7 +197,7 @@ task-manager/
         │   ├── Tasks.js           # Task list with kanban board
         │   └── AdminPanel.js      # Admin: all users and all tasks
         └── App.js                 # Route definitions
-```
+
 
 ---
 
