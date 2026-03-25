@@ -87,6 +87,8 @@ JWT_SECRET=mysupersecretjwtkey123
 Start the backend server:
 ```bash
 node server.js
+
+Open Postmon add Admin 
 POST http://localhost:5000/api/auth/register
 Content-Type: application/json
 
