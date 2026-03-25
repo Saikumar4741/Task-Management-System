@@ -7,6 +7,11 @@ Full Stack project with  collabration and analytics.
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
 
+
+# Project-DEMO
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ab9ddcfd-acb2-4b67-9731-8109f814a2f2" />
+
+
 A full-stack **Task Management Web Application** where users can create, manage and track their tasks with analytics and insights. Built with React, Node.js, Express and MongoDB.
 
 ---
@@ -38,19 +43,6 @@ A full-stack **Task Management Web Application** where users can create, manage 
 - Responsive design
 
 ---
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|------------|
-| Frontend | React.js, React Router DOM |
-| Charts | Recharts |
-| Icons | Lucide React |
-| HTTP Client | Axios |
-| Backend | Node.js, Express.js |
-| Database | MongoDB, Mongoose |
-| Authentication | JWT (JSON Web Tokens) |
-| Password Hashing | bcryptjs |
 
 ---
 
