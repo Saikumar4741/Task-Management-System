@@ -9,10 +9,15 @@ Full Stack project with  collabration and analytics.
 
 
 # Project-DEMO
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b29f01d3-1e5f-48a0-87a5-393dcaa5470d" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9609defb-0a09-44f5-a58b-7db338bf852a" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ab9ddcfd-acb2-4b67-9731-8109f814a2f2" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5e230c89-6cb3-47e8-92d5-ad050a335cee" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/27440fe1-8217-466c-b6b4-acb83bcee256" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68996a1e-8028-4bd3-ab9b-dfc11b72c20c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f583622-4123-4b34-996b-f061680ada3c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83d5c06d-5c5a-4adb-b3f9-b59d8c4378c4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bfbce37a-2d04-4ffe-8f73-294ff2ad9fe1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ed597d6-41e8-4456-8a4c-6c5e17d92850" />
+
 
 
 A full-stack **Task Management Web Application** where users can create, manage and track their tasks with analytics and insights. Built with React, Node.js, Express and MongoDB.
